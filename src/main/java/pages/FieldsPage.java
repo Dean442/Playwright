@@ -3,8 +3,6 @@ package pages;
 import com.microsoft.playwright.Page;
 import components.Button;
 
-import javax.swing.*;
-
 public class FieldsPage extends BasePage{
 
     public final Button accademyButton;

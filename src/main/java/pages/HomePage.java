@@ -5,8 +5,6 @@ import com.microsoft.playwright.Page;
 import com.microsoft.playwright.options.AriaRole;
 import components.Button;
 
-import java.util.List;
-
 public class HomePage extends BasePage{
 
     private final String baseUrl = "https://www.akros.ch/";

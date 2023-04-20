@@ -15,7 +15,6 @@ public class TestTest extends BaseTest {
         HomePage homePage = new HomePage(page);
         homePage.navigateTo();
         homePage.felderButton.click();
-        FieldsPage fieldsPage = new FieldsPage(page);
         try {
             Thread.sleep(5000);
         } catch (InterruptedException e) {
