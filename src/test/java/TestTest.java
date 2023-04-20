@@ -2,7 +2,6 @@
 
 import com.microsoft.playwright.Page;
 import org.junit.jupiter.api.Test;
-import pages.FieldsPage;
 import pages.HomePage;
 
 import java.nio.file.Paths;
